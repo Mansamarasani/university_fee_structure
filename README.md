@@ -84,7 +84,15 @@ on github.com.
 Please include a README.md file in the repository with
 instructions on how to setup or run the code.
 
+Open command prompt.
+Run the created Java program using command prompt.
+Follow the below steps to run the command prompt. 1
+   1->  C:\Users\Admin> cd\
+   2->  C:\> cd javaprogram
+   3->  C:\javaprogram> javac University_fee_structure.java
+   4->  C:\javaprogram> java University_fee_structure
 
 
 
-Run The code in Commond promt
+
+
